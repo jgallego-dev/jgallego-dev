@@ -85,20 +85,6 @@ achievements:
 stack: [TypeScript, Go, Microservices, Feature Flags, Kubernetes, Terraform]
 ```
 
----
-
-## 📊 GITHUB_STATS
-
-<div align="center">
-
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgallego-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgallego-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0033&text_color=FFFFFF)
-
-</div>
-
----
-
 ## 🎯 CURRENT_FOCUS
 
 ```diff
