@@ -106,7 +106,7 @@ echo "jgallego.dev@gmail.com" | pbcopy
 open https://linkedin.com/in/jaimegallegor
 
 # Portfolio
-open https://jaimegallego.dev
+open https://jgallego.dev
 ```
 
 ---
