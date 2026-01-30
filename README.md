@@ -6,6 +6,7 @@
 > Obsessed with performance, scalable systems, and removing the unnecessary.
 ```
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jgallego.dev-FF0033?style=flat-square&logo=google-chrome&logoColor=white)](https://jgallego.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jaimegallegor-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/jaimegallegor)
 [![Email](https://img.shields.io/badge/Email-jgallego.dev%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:jgallego.dev@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Medell%C3%ADn%2C%20Colombia-brightgreen?style=flat-square)]()
@@ -19,7 +20,7 @@ Software engineer with **7+ years of experience** building distributed systems t
 Specialized in microservices architectures, fintech, and scalable platforms. I don't do "good enough" — I make it work right.
 
 ```javascript
-const jaime = {
+const Jaime = {
   location: "Medellín, Colombia",
   current: "SoftServe",
   focus: ["Distributed Systems", "Performance Optimization", "Scalable Architecture"],
@@ -33,7 +34,7 @@ const jaime = {
 
 **Languages:**
 ```
-TypeScript • Python • Rust • Go
+TypeScript • NodeJs • React 
 ```
 
 **Infrastructure & Tools:**
@@ -90,9 +91,9 @@ stack: [TypeScript, Go, Microservices, Feature Flags, Kubernetes, Terraform]
 
 <div align="center">
 
-![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF)
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgallego-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0033&icon_color=FF0033&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0033&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgallego-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0033&text_color=FFFFFF)
 
 </div>
 
